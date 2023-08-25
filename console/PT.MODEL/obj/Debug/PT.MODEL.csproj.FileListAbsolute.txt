@@ -1,0 +1,6 @@
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.MODEL\bin\Debug\PT.MODEL.dll
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.MODEL\bin\Debug\PT.MODEL.pdb
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.MODEL\obj\Debug\PT.MODEL.csproj.AssemblyReference.cache
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.MODEL\obj\Debug\PT.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.MODEL\obj\Debug\PT.MODEL.dll
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.MODEL\obj\Debug\PT.MODEL.pdb

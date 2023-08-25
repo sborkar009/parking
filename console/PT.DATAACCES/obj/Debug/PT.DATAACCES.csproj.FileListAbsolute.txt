@@ -1,0 +1,9 @@
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.DATAACCES\bin\Debug\PT.DATAACCES.dll
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.DATAACCES\bin\Debug\PT.DATAACCES.pdb
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.DATAACCES\bin\Debug\PT.MODEL.dll
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.DATAACCES\bin\Debug\PT.MODEL.pdb
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.DATAACCES\obj\Debug\PT.DATAACCES.csproj.AssemblyReference.cache
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.DATAACCES\obj\Debug\PT.DATAACCES.csproj.CoreCompileInputs.cache
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.DATAACCES\obj\Debug\PT.DATAACCES.csproj.CopyComplete
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.DATAACCES\obj\Debug\PT.DATAACCES.dll
+C:\Users\shubham.borkar\source\repos\TICKETPARKINGS\PT.DATAACCES\obj\Debug\PT.DATAACCES.pdb
